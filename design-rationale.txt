@@ -1,0 +1,5 @@
+## Design Rationale
+
+For the Institute of Digital Risk (IDR), the primary icon utilizes an isometric, geometric cube that visually communicates resilient structure, foundational strength, and complex digital risk modeling. The deliberate separation between the faces introduces a modern "high-tech" dimension, symbolizing the analysis, deconstruction, and dynamic management of digital threats. 
+
+The color palette centers around an energetic, attention-drawing safety orange (#FF5722) which signifies action and alertness, balanced with serious corporate tones of dark slate, greys, and pure white to anchor the identity, ensuring a minimalist, mature aesthetic suitable for regulated, high-stakes environments. Clean, geometric sans-serif typography (like Inter) completes the brand, bringing a highly legible and contemporary edge to both large displays and small mobile headers or favicons.
