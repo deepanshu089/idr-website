@@ -1,5 +1,17 @@
 # Institute of Digital Risk (IDR) Brand & Homepage
 
+<div align="center">
+  <img src="assets/preview-1.png" alt="IDR Hero Section Preview" width="800"/>
+  <br/>
+  <img src="assets/preview-2.png" alt="IDR About Section Preview" width="800"/>
+  <br/>
+  <img src="assets/preview-3.png" alt="IDR Pillars Preview" width="800"/>
+  <br/>
+  <img src="assets/preview-4.png" alt="IDR Community Preview" width="800"/>
+  <br/>
+  <img src="assets/preview-5.png" alt="IDR Contact Preview" width="800"/>
+</div>
+
 This repository contains the completed branding assets and single-page, responsive website for the **Institute of Digital Risk (IDR)**.
 
 ## Deliverables Completed
